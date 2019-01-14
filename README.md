@@ -27,3 +27,6 @@ def execute(grafx, view, font, brushes, pens, pointf):
     grafx.FillRectangle(brushes.RoyalBlue, view)
     grafx.DrawString("Is it Okay ?", font("Arial", 50), brushes.Black, pointf(50,200))
 ```
+
+And once the application runs, we view :
+<img src="https://github.com/TW2/Ropow/blob/master/Screenshots/2019-01-14%20-%20Ropow%20view%20of%20OK.PNG" />
